@@ -1,6 +1,6 @@
 # Pet Clinic
 
-Spring Framework Petclinic App with Gitlab CI and Docker Compose Integration.
+Spring Framework Petclinic App with Gitlab CI/CD and Docker Compose Integration.
 
 Original Project - https://github.com/spring-petclinic/spring-framework-petclinic
 
